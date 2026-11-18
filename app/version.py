@@ -1,0 +1,3 @@
+APP_NAME = "3D-Vergleich-MK1"
+APP_TITLE = "3D-VERGLEICH // MK1"
+APP_VERSION = "1.0.0"
